@@ -21,14 +21,18 @@ View the recommended movies displayed in the GUI based on cosine similarity scor
 Technologies Used
 
 Python
-Streamlit
-pandas
-NumPy
-scikit-learn
-nltk
+1. Streamlit
+2. pandas
+3. NumPy
+4. scikit-learn
+5. nltk
 
 Future Enhancements
 
-Incorporate collaborative filtering techniques for improved recommendation accuracy.
-Enhance user profiling capabilities to capture more personalized preferences.
-Integrate external data sources for richer movie metadata and recommendation insights.
+1. Incorporate collaborative filtering techniques for improved recommendation accuracy.
+2. Enhance user profiling capabilities to capture more personalized preferences.
+3. Integrate external data sources for richer movie metadata and recommendation insights.
+
+Credits
+Dataset sourced from TMDb.
+Inspired by tutorials and resources from the data science and machine learning community.
