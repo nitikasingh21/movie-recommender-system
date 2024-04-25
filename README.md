@@ -19,6 +19,7 @@ Click on the "Recommend" button to generate personalized movie recommendations.
 View the recommended movies displayed in the GUI based on cosine similarity scores.
 
 Technologies Used
+
 Python
 1. Streamlit
 2. pandas
