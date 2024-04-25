@@ -19,7 +19,6 @@ Click on the "Recommend" button to generate personalized movie recommendations.
 View the recommended movies displayed in the GUI based on cosine similarity scores.
 
 Technologies Used
-
 Python
 1. Streamlit
 2. pandas
@@ -34,5 +33,7 @@ Future Enhancements
 3. Integrate external data sources for richer movie metadata and recommendation insights.
 
 Credits
+
 Dataset sourced from TMDb.
+
 Inspired by tutorials and resources from the data science and machine learning community.
