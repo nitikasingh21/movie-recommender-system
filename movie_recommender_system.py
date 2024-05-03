@@ -148,9 +148,6 @@ def stem(text):
     y.append(ps.stem(i))
   return " ".join(y)
 
-#Example
-ps.stem('actors')
-
 new_df['tags']= new_df['tags'].apply(stem)
 
 #Calculating cosine distance between movies
